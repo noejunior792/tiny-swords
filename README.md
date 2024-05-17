@@ -1,4 +1,4 @@
-# 2D Action Roguelike Game
+# 2D Tiny Swords Game
 
 Welcome to the 2D action roguelike game project! This game, developed using the [Godot Engine](https://godotengine.org/), offers fast-paced combat, procedurally generated levels, and a variety of unique weapons and abilities. Players will navigate through challenging dungeons, fighting off enemies and collecting loot to enhance their character's skills and equipment.
 
@@ -18,4 +18,4 @@ Follow these instructions to get the game up and running on your local machine.
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/2d-action-roguelike-game.git
+   git clone https://github.com/noejunior792/tiny-swords.git
